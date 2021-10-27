@@ -65,6 +65,10 @@ section {
   background-color: var(--dark-bg);
   color: var(--dark-colour);
 }
+.secondary-light {
+  background-color: var(--secondary-light);
+  color: var(--light-colour);
+}
 
 .light .secondary {
   color: var(--secondary-light);
